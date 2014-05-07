@@ -1,0 +1,40 @@
+﻿/* Common */
+
+body {
+ padding-top:6%;
+  background: url("background.jpg");
+  color: #000;
+  text-align: left;
+}
+h1 {text-align: center;
+	color: #000
+}
+
+
+.layout {
+ font-weight:bold;
+ font-size: 120%;
+  display: table;
+  margin: 20px auto;
+ 
+  background-color: #fff;
+
+  table-layout: fixed;
+  opacity:.8;
+}
+
+.layout-cell {
+  border: 3px solid #808080;
+  display: table-cell;
+  padding: 5px;
+  vertical-align: top;
+}
+
+.sidebar {
+  width: 20%;
+}
+
+.content {
+  width: 80%;
+}
+
