@@ -118,9 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Button1" xml:space="preserve">
-    <value>Bonjour</value>
+    <value>عرض</value>
   </data>
-  <data name="Label1.text" xml:space="preserve">
-    <value>Franch</value>
+  <data name="Female.text" xml:space="preserve">
+    <value>أنثى</value>
+  </data>
+  <data name="gender.text" xml:space="preserve">
+    <value>أنا</value>
+  </data>
+  <data name="Graduate.text" xml:space="preserve">
+    <value>أخطط لتخريج على</value>
+  </data>
+  <data name="labelmn.text" xml:space="preserve">
+    <value>اسمي</value>
+  </data>
+  <data name="lblsalary.text" xml:space="preserve">
+    <value>عند تخرجي، وآمل أن يكسب</value>
+  </data>
+  <data name="Male.text" xml:space="preserve">
+    <value>ذكر</value>
+  </data>
+  <data name="label1.text" xml:space="preserve">
+    <value>مرحبا</value>
+  </data>
+  <data name="Label10.text" xml:space="preserve">
+    <value>السيدة</value>
+  </data>
+  <data name="Label6.text" xml:space="preserve">
+    <value>سيد</value>
+  </data>
+  <data name="label7.text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
+  </data>
+  <data name="label8.text" xml:space="preserve">
+    <value>كما راتبا في وظيفتك الأولى!</value>
   </data>
 </root>

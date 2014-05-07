@@ -120,7 +120,37 @@
   <data name="Button1" xml:space="preserve">
     <value>Submit</value>
   </data>
-  <data name="Label1.text" xml:space="preserve">
-    <value>Use this language</value>
+  <data name="Female.text" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="gender.text" xml:space="preserve">
+    <value>I am</value>
+  </data>
+  <data name="Graduate.text" xml:space="preserve">
+    <value>I plan to graduate on</value>
+  </data>
+  <data name="labelmn.text" xml:space="preserve">
+    <value>My name is</value>
+  </data>
+  <data name="lblsalary.text" xml:space="preserve">
+    <value>When I graduate, I hope to earn</value>
+  </data>
+  <data name="Male.text" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="label1.text" xml:space="preserve">
+    <value>Hello!</value>
+  </data>
+  <data name="Label10.text" xml:space="preserve">
+    <value>Ms.</value>
+  </data>
+  <data name="Label6.text" xml:space="preserve">
+    <value>Mr.</value>
+  </data>
+  <data name="label7.text" xml:space="preserve">
+    <value>I wish you well in your career after graduation. I hope you earn</value>
+  </data>
+  <data name="label8.text" xml:space="preserve">
+    <value>as a salary in your first job!</value>
   </data>
 </root>

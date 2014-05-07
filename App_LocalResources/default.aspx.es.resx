@@ -117,13 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Color" xml:space="preserve">
-    <value>LightBlue</value>
+  <data name="Button1" xml:space="preserve">
+    <value>presentar</value>
   </data>
-  <data name="w" xml:space="preserve">
-    <value>fdsa</value>
+  <data name="Female.text" xml:space="preserve">
+    <value>femenino</value>
   </data>
-  <data name="Welcome" xml:space="preserve">
-    <value>Welcome</value>
+  <data name="gender.text" xml:space="preserve">
+    <value>estoy</value>
+  </data>
+  <data name="Graduate.text" xml:space="preserve">
+    <value>Tengo la intención de graduarse a</value>
+  </data>
+  <data name="labelmn.text" xml:space="preserve">
+    <value>Mi nombre es</value>
+  </data>
+  <data name="lblsalary.text" xml:space="preserve">
+    <value>Cuando me gradúe, espero aprender</value>
+  </data>
+  <data name="Male.text" xml:space="preserve">
+    <value>masculino</value>
+  </data>
+  <data name="label1.text" xml:space="preserve">
+    <value>¡Hola</value>
+  </data>
+  <data name="Label10.text" xml:space="preserve">
+    <value>Sra.</value>
+  </data>
+  <data name="Label6.text" xml:space="preserve">
+    <value>Sr.</value>
+  </data>
+  <data name="label7.text" xml:space="preserve">
+    <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
+  </data>
+  <data name="label8.text" xml:space="preserve">
+    <value>como un salario en su primer trabajo!</value>
   </data>
 </root>
