@@ -8,10 +8,11 @@ Partial Class _default
 
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Response.Visible = True
+        response.Visible = True
+        formsubmit.Visible = False
 
 
-        formsubmit.Style.Add("display", "none")
+        'formsubmit.Style.Add("display", "none")
 
         If Male.Checked = True Then
             Label6.Visible = True
@@ -21,15 +22,9 @@ Partial Class _default
             Label10.Visible = True
         End If
 
-
-        Label1.Text = Label1.Text + "&nbsp;"
-
+       
         Label2.Text = tbname.Text
         Label3.Text = Calendar1.SelectedDate.ToShortDateString()
-        Label7.Text = Label7.Text
-        Label8.Text = Label8.Text
-
-
         CurrencyLabel.Text = String.Format("{0:C}", tbsalary.Text)
 
 
@@ -42,6 +37,9 @@ Partial Class _default
             Thread.CurrentThread.CurrentUICulture = New CultureInfo(lang)
             Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang)
         End If
+
+
+
     End Sub
 
 
@@ -50,7 +48,11 @@ Partial Class _default
 
    
     Protected Sub Page_Load(sender As Object, e As EventArgs) Handles Me.Load
-        Response.Visible = False
+        If tbname.Text = "" Then
+
+            response.Visible = False
+
+        End If
     End Sub
 
    

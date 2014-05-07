@@ -153,4 +153,10 @@
   <data name="label8.text" xml:space="preserve">
     <value>as a salary in your first job!</value>
   </data>
+  <data name="label11.text" xml:space="preserve">
+    <value>Please visit me on</value>
+  </data>
+  <data name="label12.text" xml:space="preserve">
+    <value>I hope you have a great day when you graduate on</value>
+  </data>
 </root>

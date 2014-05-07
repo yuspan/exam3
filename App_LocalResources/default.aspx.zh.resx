@@ -153,4 +153,10 @@
   <data name="label8.text" xml:space="preserve">
     <value>在你的第一份工作的薪水！</value>
   </data>
+  <data name="label11.text" xml:space="preserve">
+    <value>请访问我的</value>
+  </data>
+  <data name="label12.text" xml:space="preserve">
+    <value>我希望你有一个伟大的日子，当你毕业的</value>
+  </data>
 </root>

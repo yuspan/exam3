@@ -153,4 +153,10 @@
   <data name="label8.text" xml:space="preserve">
     <value>كما راتبا في وظيفتك الأولى!</value>
   </data>
+  <data name="label11.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+  </data>
+  <data name="label12.text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على</value>
+  </data>
 </root>

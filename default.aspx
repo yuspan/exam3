@@ -28,7 +28,7 @@
                 <div id="formsubmit" runat="server">
         <asp:Label ID="LabelMN" runat="server" Meta:resourcekey="labelMN"></asp:Label>
 &nbsp;:
-        <asp:TextBox ID="tbname" runat="server"></asp:TextBox>
+        <asp:TextBox ID="tbname" runat="server" style="direction: ltr"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Please enter your name" ControlToValidate="tbname"></asp:RequiredFieldValidator>
         <br />
        
@@ -60,6 +60,7 @@
         <asp:Label ID="Label2" runat="server"></asp:Label>
          <br />
         <br />
+                    <asp:Label ID="Label12" runat="server" meta:resourcekey="label12"></asp:Label>
          <asp:Label ID="Label3" runat="server"></asp:Label>
         <br />
         <br />
@@ -68,7 +69,11 @@
         <asp:Label ID="CurrencyLabel" runat="server"></asp:Label>
         &nbsp;<asp:Label ID="Label4" runat="server" ></asp:Label>
            <asp:Label ID="Label8" runat="server" meta:resourcekey="label8"></asp:Label>
-        <br />
+                    <br />
+                    <br />
+                    <asp:Label ID="Label11" runat="server" meta:resourcekey="label11"></asp:Label>
+                    <a href="https://github.com/yuspan">GitHub</a>
+&nbsp;<br />
            </div>
             </div>
         </div>
